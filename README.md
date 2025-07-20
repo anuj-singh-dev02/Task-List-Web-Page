@@ -1,4 +1,4 @@
-# 📝 Interactive Task List Web Page
+# 📝Task List Web Page
 
 An elegant and easy-to-use Task List Web application built using HTML, CSS, and JavaScript.
 
