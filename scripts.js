@@ -28,7 +28,6 @@ function createTask() {
     </div>
   `;
 
-  // Delete button handler
   taskEl.querySelector(".delete").onclick = function () {
     taskEl.remove();
   };
