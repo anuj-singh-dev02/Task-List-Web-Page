@@ -1,6 +1,6 @@
 # 📝 Interactive Task List Web Page
 
-An elegant and easy-to-use To-Do List web application built using HTML, CSS, and JavaScript.
+An elegant and easy-to-use Task List Web application built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 - ✅ Add tasks
